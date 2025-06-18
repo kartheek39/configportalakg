@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "TMPDIR=/home/site/wwwroot/tmp next start",
+    "start": "TMPDIR=/home/site/wwwroot/temp next start",
     "lint": "next lint"
   },
   "dependencies": {
