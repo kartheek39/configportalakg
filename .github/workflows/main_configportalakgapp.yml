@@ -44,7 +44,6 @@ jobs:
             .next/ \
             public/ \
             package.json \
-            next.config.js \
             # Add other necessary root files if any (e.g., global.d.ts, .env if not using App Service Config)
 
       - name: Upload artifact for deployment job
